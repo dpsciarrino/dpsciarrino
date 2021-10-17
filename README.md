@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Dominic%20Sciarrino%3A%20Frontend%20Web%20Developer++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Dom%20Sciarrino%3A%20Frontend%20Web%20Developer++++++++++)](https://git.io/typing-svg)
 
-
-👋 Hi, I’m Dominic! I’m interested in front end web application development. I’m currently learning ReactJS, SCSS/SASS, and Django. You can reach me at: dominic.sciarrino@gmail.com.
+👋 Hi, I’m Dom! I’m interested in front end web application development. I’m currently learning ReactJS, SCSS/SASS, and Django. You can reach me at: dominic.sciarrino@gmail.com.
 
 <h3 align="left">Languages and Tools:</h3>
 
