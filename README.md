@@ -4,7 +4,7 @@
 
 <h1>Projects</h1>
 
-<h2>Italian Verb Scraper</h2>
+<h2>Italian Verb Web Scrapers</h2>
 
 GitHub: <a href="https://github.com/dpsciarrino/italian-verb-scrapers">https://github.com/dpsciarrino/italian-verb-scrapers</a>
 
