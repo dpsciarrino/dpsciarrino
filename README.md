@@ -14,7 +14,7 @@ GitHub: <a href="https://github.com/dpsciarrino/italian-verb-scrapers">https://g
 
 GitHub: <a href="https://github.com/dpsciarrino/kicad_auto">https://github.com/dpsciarrino/kicad_auto</a>
 
-<p>For Mimmotronics Effects I develop modification and effects circuits, for which I use KiCAD design software. This project allows me to streamline project creation workflow. It uses a combination of Python scripts and Makefile commands.</p>
+<p>For Mimmotronics Effects I develop guitar pedal modification and effects circuits, for which I use KiCAD design software. This project allows me to streamline project creation workflow. It uses a combination of Python scripts and Makefile commands.</p>
 
 <h2>Zeal</h2>
 
