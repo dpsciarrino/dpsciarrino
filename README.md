@@ -10,6 +10,12 @@ GitHub: <a href="https://github.com/dpsciarrino/italian-verb-scrapers">https://g
 
 <p>My main intention with this project was to learn how to use the Beautiful Soup python library. I used a SQLite database to store data on Italian verb conjugations and other useful information. I'm planning on using the data collected from this project in other projects <em>soon</em>.</p>
 
+<h2>KiCAD Automation</h2>
+
+GitHub: <a href="https://github.com/dpsciarrino/kicad_auto">https://github.com/dpsciarrino/kicad_auto</a>
+
+<p>For Mimmotronics Effects, I develop modification and effects circuits, for which I used KiCAD design software. This project allows me to streamline project creation workflow. It uses a combination of Python scripts and Makefile commands.</p>
+
 <h2>Zeal</h2>
 
 GitHub: <a href="https://github.com/Prakshal-Jain/Zeal">https://github.com/Prakshal-Jain/Zeal</a>
