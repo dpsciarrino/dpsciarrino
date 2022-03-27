@@ -12,12 +12,6 @@ GitHub: <a href="https://github.com/dpsciarrino/verbigo">https://github.com/dpsc
 
 The web application is built using Django Python Framework, with custom CSS.</p>
 
-<h2>Italian Verb Web Scrapers</h2>
-
-GitHub: <a href="https://github.com/dpsciarrino/italian-verb-scrapers">https://github.com/dpsciarrino/italian-verb-scrapers</a>
-
-<p>My main intention with this project was to learn how to use the Beautiful Soup python library. I used a SQLite database to store data on Italian verb conjugations and other useful information. I'm planning on using the data collected from this project in other projects <em>soon</em>.</p>
-
 <h2>KiCAD Automation</h2>
 
 GitHub: <a href="https://github.com/dpsciarrino/kicad_auto">https://github.com/dpsciarrino/kicad_auto</a>
