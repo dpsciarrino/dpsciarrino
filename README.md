@@ -4,6 +4,12 @@
 
 <h1>Projects</h1>
 
+<h2>Verbigo</h2>
+
+GitHub: <a href="https://github.com/dpsciarrino/verbigo">https://github.com/dpsciarrino/verbigo</a>
+
+<p>Verbigo is a CRUD (Create, Read, Update, Delete) web application for practicing italian verb conjugations. Register as a user, login, and start creating 'stacks' of verbs to practice. You can edit the stack at any time, along with the verb list. You can even have multiple stacks, so you can organize the verbs into categories if that helps. If you don't want a stack any, you can delete it. There are currently six (6) verb tenses to choose from, and you can choose whether to display pronouns in english or italian during the practice sessions.</p>
+
 <h2>Italian Verb Web Scrapers</h2>
 
 GitHub: <a href="https://github.com/dpsciarrino/italian-verb-scrapers">https://github.com/dpsciarrino/italian-verb-scrapers</a>
