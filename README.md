@@ -4,6 +4,12 @@
 
 <h1>Projects</h1>
 
+<h2>Micro800 PLC I/O Development Tool</h2>
+
+GitHub: <a href="https://github.com/dpsciarrino/Micro800_IO_Development_Tool">https://github.com/dpsciarrino/Micro800_IO_Development_Tool</a>
+
+<p>A useful tool written with the Python Django web framework for configuring Micro800 digital I/O tags for development and testing purposes.</p>
+
 <h2>Stock Backtester</h2>
 
 GitHub: <a href="https://github.com/dpsciarrino/backtester">https://github.com/dpsciarrino/backtester</a>
