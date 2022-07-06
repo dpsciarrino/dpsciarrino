@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Dom%20Sciarrino++++++++++)](https://git.io/typing-svg)
 
-👋 Hi, I’m Dom! You can reach me at: dominic.sciarrino@gmail.com. My interest is in automation, web application development, and data analysis. For fun, I like to travel and hike when I can. I've played guitar since I was 8 and have played in various bands since high school. I also speak Italian at a B2 level. 🇮🇹
+👋 Hi, I’m Dom! You can reach me at: dominic.sciarrino@gmail.com. My interest is in automation, web application development, and data analysis. For fun, I like to hike and travel when possible. I've played guitar since I was 8 and have played in various bands ever since. I also speak Italian at a B2 level. 🇮🇹
 
 <h1>Projects</h1>
 
