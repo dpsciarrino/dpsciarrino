@@ -10,11 +10,11 @@ GitHub: <a href="https://github.com/dpsciarrino/Micro800_IO_Development_Tool">ht
 
 <p>A useful tool written with the Python Django web framework for configuring Micro800 digital I/O tags for development and testing purposes.</p>
 
-<h2>Stock Backtester</h2>
+<h2>Verbigo</h2>
 
-GitHub: <a href="https://github.com/dpsciarrino/backtester">https://github.com/dpsciarrino/backtester</a>
+Site: <a href="http://dpsciarr.pythonanywhere.com/">Verbigo</a>
 
-<p>Based on the existing 'backtesting' python library, Backtester is an in-development framework for testing stock trading strategies on historical data.</p>
+<p>A Django site created as a result of web scraping Italian verb conjugations for language practice. Stored all verb conjugation data into a SQLite database. Then, I developed this Djago site and integrated the verb data into the Django database as models.</p>
 
 <h2>KiCAD Automation</h2>
 
