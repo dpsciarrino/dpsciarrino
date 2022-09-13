@@ -4,6 +4,12 @@
 
 <h1>Projects</h1>
 
+<h2>Django User App</h2>
+
+GitHub: <a href="https://github.com/dpsciarrino/django-userapp"> https://github.com/dpsciarrino/django-userapp </a>
+
+<p>A Django app that implements basic user login and registration, password recovery via email, and email authentication upon registration.</p>
+
 <h2>Micro800 PLC I/O Development Tool</h2>
 
 GitHub: <a href="https://github.com/dpsciarrino/Micro800_IO_Development_Tool">https://github.com/dpsciarrino/Micro800_IO_Development_Tool</a>
@@ -27,5 +33,3 @@ GitHub: <a href="https://github.com/dpsciarrino/kicad_auto">https://github.com/d
 GitHub: <a href="https://github.com/Prakshal-Jain/Zeal">https://github.com/Prakshal-Jain/Zeal</a>
 
 <p>This was a project I worked on with a group of fellow students at the University at Buffalo. The idea was to build a web application that aided Hack-a-thon organizers and participants to efficently match those who had project ideas with others that have the relevant experience to realize the project.</p>
-
-<p>The technologies used to make Zeal include: ReactJS for the frontend, Django for the backend, and Postgres as the database management system. We used a watered-down Agile management methodology throughout the course, with weekly meetings with a project leader. Everything was kept track of in ZenHub and GitHub was used for version control. Deployment was done using free services from Heroku.</p>
