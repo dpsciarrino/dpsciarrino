@@ -8,6 +8,10 @@
 
 GitHub: <a href="https://github.com/dpsciarrino/django-userapp"> https://github.com/dpsciarrino/django-userapp </a>
 
+<h2>Django Contact Form</h2>
+
+GitHub: <a href="https://github.com/dpsciarrino/django-contactform">https://github.com/dpsciarrino/django-contactform</a>
+
 <p>A Django app that implements basic user login and registration, password recovery via email, and email authentication upon registration.</p>
 
 <h2>Micro800 PLC I/O Development Tool</h2>
