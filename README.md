@@ -2,15 +2,13 @@
 
 👋 Hi! I’m Dom. To put it simply, I like building things.
 
-My interests are in industrial automation, web application development, and data analysis. I’m currently on a steady path towards building a portfolio of independent websites, mostly using the Django framework.
-
-At the moment, I’m working on a web application for learning Italian verb conjugations, and plan to have an alpha version up and running by the end of 2022.
+My interests are in web application development and data analysis. At the moment, I’m working on a Django web application to help me get better at Italian verb conjugations.
 
 I have Dual-Citizenship in the US and Italy, speak fluent English, and I have a working proficiency in the Italian language.
 
 I also manage/operate Mimmotronics Effects, which provides guitar effects modification services and hand-built products for the DIY guitar effects community.
 
-Feel free to reach out! The best way is through e-mail: dominic.sciarrino@gmail.com.
+The best way to reach me is through e-mail: dominic.sciarrino@gmail.com.
 
 <h1>Projects</h1>
 
@@ -43,7 +41,6 @@ GitHub: <a href="https://github.com/dpsciarrino/kicad_auto">https://github.com/d
 GitHub: <a href="https://github.com/Prakshal-Jain/Zeal">https://github.com/Prakshal-Jain/Zeal</a>
 
 <p>This was a project I worked on with a group of fellow students at the University at Buffalo. The idea was to build a web application that aided Hack-a-thon organizers and participants to efficently match those who had project ideas with others that have the relevant experience to realize the project.</p>
-
 
 <h2>Micro800 PLC I/O Development Tool</h2>
 
