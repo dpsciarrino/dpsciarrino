@@ -1,12 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Dom%20Sciarrino++++++++++)](https://git.io/typing-svg)
 
-👋 Hi! I’m Dom. To put it simply, I like building things.
+👋 Hi! I’m Dom.
 
 My interests are in web application development and data analysis. At the moment, I’m working on a Django web application to help me get better at Italian verb conjugations.
-
-I have Dual-Citizenship in the US and Italy, speak fluent English, and I have a working proficiency in the Italian language.
-
-I also manage/operate Mimmotronics Effects, which provides guitar effects modification services and hand-built products for the DIY guitar effects community.
 
 The best way to reach me is through e-mail: dominic.sciarrino@gmail.com.
 
