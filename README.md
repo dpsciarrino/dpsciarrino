@@ -8,6 +8,12 @@ The best way to reach me is through e-mail: dominic.sciarrino@gmail.com.
 
 <h1>Projects</h1>
 
+<h2>WDP Editor GUI</h2>
+
+GitHub: <a href="https://github.com/dpsciarrino/WDP-Editor"> https://github.com/dpsciarrino/WDP-Editor </a>
+
+<p>A Python Tkinter GUI for efficiently managing AutoCAD Electrical WDP files.</p>
+
 <h2>Django User App</h2>
 
 GitHub: <a href="https://github.com/dpsciarrino/django-userapp"> https://github.com/dpsciarrino/django-userapp </a>
