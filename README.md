@@ -2,7 +2,7 @@
 
 👋 Hi! I’m Dom.
 
-My interests are in web application development and data analysis. At the moment, I’m working on a Django web application to help me get better at Italian verb conjugations.
+My interests are in web development and data analysis.
 
 The best way to reach me is through e-mail: dominic.sciarrino@gmail.com.
 
@@ -30,7 +30,7 @@ GitHub: <a href="https://github.com/dpsciarrino/django-contactform">https://gith
 
 Site: <a href="http://dpsciarr.pythonanywhere.com/">Verbigo</a>
 
-<p>A demo Django site created for practicing Italian verb conjugations.</p>
+<p>A demo Django site created for practicing Italian verb conjugations. Email me for trial credentials.</p>
 
 <h2>KiCAD Automation</h2>
 
