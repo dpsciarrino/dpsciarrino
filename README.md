@@ -14,39 +14,15 @@ GitHub: <a href="https://github.com/dpsciarrino/WDP-Editor"> https://github.com/
 
 <p>A Python Tkinter GUI for efficiently managing AutoCAD Electrical WDP files.</p>
 
-<h2>Django User App</h2>
-
-GitHub: <a href="https://github.com/dpsciarrino/django-userapp"> https://github.com/dpsciarrino/django-userapp </a>
-
-<p>A Django app that implements basic user login and registration, password recovery via email, and email authentication upon registration.</p>
-
-<h2>Django Contact Form</h2>
-
-GitHub: <a href="https://github.com/dpsciarrino/django-contactform">https://github.com/dpsciarrino/django-contactform</a>
-
-<p>A Django app that implements a contact form with reCAPTCHA.</p>
-
-<h2>Verbigo</h2>
-
-Site: <a href="http://dpsciarr.pythonanywhere.com/">Verbigo</a>
-
-<p>A demo Django site created for practicing Italian verb conjugations. Email me for trial credentials.</p>
-
 <h2>KiCAD Automation</h2>
 
 GitHub: <a href="https://github.com/dpsciarrino/kicad_auto">https://github.com/dpsciarrino/kicad_auto</a>
 
 <p>For Mimmotronics Effects I develop guitar pedal modification and effects circuits, for which I use KiCAD design software. This project allows me to streamline my workflow for project creation. It uses a combination of Python scripts and Makefile commands.</p>
 
-<h2>Zeal</h2>
-
-GitHub: <a href="https://github.com/Prakshal-Jain/Zeal">https://github.com/Prakshal-Jain/Zeal</a>
-
-<p>This was a project I worked on with a group of fellow students at the University at Buffalo. The idea was to build a web application that aided Hack-a-thon organizers and participants to efficently match those who had project ideas with others that have the relevant experience to realize the project.</p>
-
 <h2>Micro800 PLC I/O Development Tool</h2>
 
 GitHub: <a href="https://github.com/dpsciarrino/Micro800_IO_Development_Tool">https://github.com/dpsciarrino/Micro800_IO_Development_Tool</a>
 
-<p>A useful tool written with the Python Django web framework for configuring Micro800 digital I/O tags for development and testing purposes.</p>
+<p>A useful tool written with the Python Django web framework for configuring Micro800 PLC digital I/O tags for development and testing purposes.</p>
 
