@@ -19,10 +19,3 @@ GitHub: <a href="https://github.com/dpsciarrino/kicad_auto_v7">github.com/dpscia
 GitHub: <a href="https://github.com/dpsciarrino/WDP-Editor"> https://github.com/dpsciarrino/WDP-Editor </a>
 
 <p>A Python Tkinter GUI for efficiently managing AutoCAD Electrical WDP files.</p>
-
-<h2>Micro800 PLC I/O Development Tool</h2>
-
-GitHub: <a href="https://github.com/dpsciarrino/Micro800_IO_Development_Tool">https://github.com/dpsciarrino/Micro800_IO_Development_Tool</a>
-
-<p>A useful tool written with the Python Django web framework for configuring Micro800 PLC digital I/O tags for development and testing purposes.</p>
-
