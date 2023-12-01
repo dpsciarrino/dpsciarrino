@@ -8,17 +8,17 @@ The best way to reach me is through e-mail: dominic.sciarrino@gmail.com.
 
 <h1>Projects</h1>
 
+<h2>KiCAD Auto v7</h2>
+
+GitHub: <a href="https://github.com/dpsciarrino/kicad_auto_v7">github.com/dpsciarrino/kicad_auto_v7</a>
+
+<p>KiCAD Auto v7 is a semi-automatic build tool that allows you to streamline the instantiation of KiCAD projects. It uses a combination of Python scripts and Makefile commands.</p>
+
 <h2>WDP Editor GUI</h2>
 
 GitHub: <a href="https://github.com/dpsciarrino/WDP-Editor"> https://github.com/dpsciarrino/WDP-Editor </a>
 
 <p>A Python Tkinter GUI for efficiently managing AutoCAD Electrical WDP files.</p>
-
-<h2>KiCAD Automation</h2>
-
-GitHub: <a href="https://github.com/dpsciarrino/kicad_auto">https://github.com/dpsciarrino/kicad_auto</a>
-
-<p>For Mimmotronics Effects I develop guitar pedal modification and effects circuits, for which I use KiCAD design software. This project allows me to streamline my workflow for project creation. It uses a combination of Python scripts and Makefile commands.</p>
 
 <h2>Micro800 PLC I/O Development Tool</h2>
 
