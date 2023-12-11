@@ -8,6 +8,12 @@ The best way to reach me is through e-mail: dominic.sciarrino@gmail.com.
 
 <h1>Projects</h1>
 
+<h2>Inventry</h2>
+
+GitHub:  <a href="https://github.com/dpsciarrino/inventry">github.com/dpsciarrino/inventry</a>
+
+<p>Inventry is a lightweight parts inventory and BOM management system built using Python and SQLite.</p>
+
 <h2>KiCAD Auto v7</h2>
 
 GitHub: <a href="https://github.com/dpsciarrino/kicad_auto_v7">github.com/dpsciarrino/kicad_auto_v7</a>
