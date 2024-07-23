@@ -4,11 +4,6 @@
 
 My interests include: guitar, guitar pedals, coding, data science, and web development.
 
-I'm a Python fan, first and foremost!
-R is currently growing on me.
-I tolerate Javascript and PHP.
-I cannot tolerate Java, unfortunately...sorry Java fans!
-
 Feel free to reach out for collaboration, permission, inquiries, opportunities, to talk shop, etc: dominic.sciarrino@gmail.com.
 
 <h1>Projects</h1>
