@@ -4,7 +4,7 @@
 
 My interests include: guitar, guitar pedals, coding, data science, and web development.
 
-Feel free to reach out for collaboration, permission, inquiries, opportunities, to talk shop, etc: dominic.sciarrino@gmail.com.
+Check out my <a href="https://dpsciarrino.github.io/" target="_blank">portfolio site</a> for more info. Feel free to reach out for collaboration, permission, inquiries, opportunities, to talk shop, etc: dominic.sciarrino@gmail.com.
 
 <h1>Projects</h1>
 
