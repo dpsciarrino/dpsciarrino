@@ -1,13 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Dom%20Sciarrino++++++++++)](https://git.io/typing-svg)
 
-👋 Hi! I’m Dom.
-
-My interests include: guitar, guitar pedals, coding, data science, and web development.
-
-Check out my <a href="https://dpsciarrino.github.io/" target="_blank">portfolio site</a> for more info.
-
-Feel free to reach out for collaboration, permission, inquiries, opportunities, to talk shop, etc: dominic.sciarrino@gmail.com.
-
 <h1>Projects</h1>
 
 <h2>Inventry</h2>
